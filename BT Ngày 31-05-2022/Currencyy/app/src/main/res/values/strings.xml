@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currencyy</string>
+    <string-array name="countries">
+        <item>VND</item>
+        <item>Nhan Dan Te</item>
+        <item>Yen</item>
+        <item>Won</item>
+        <item>Dollar</item>
+        <item>Som</item>
+        <item>Peso</item>
+    </string-array>
+</resources>
